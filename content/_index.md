@@ -18,7 +18,7 @@ We offer 3 rooms, our feature room is the Fundy Bay Room and is ideal for a Roma
 
 Our B&B is in a wonderful location just 200 metres from Saint John Public Gardens and a short walk further on will bring you to Rockwood Park and the beautiful Lily Lake, ideal for walking, running and Mountain Biking in summer and skating or snowshoeing in winter. We have very easy access to the Highway and are only a 5 minute drive to Uptown Saint John and the restaurant at Lily's Cafe is only a 5-10min walk away in Rockwood Park.
 
-**We offer**
+**We offer :-**
 
 * No Smoking Rooms
 * Private Off-Road Parking
