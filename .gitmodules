@@ -1,0 +1,4 @@
+[submodule "seelystreet.github.io"]
+	path = seelystreet.github.io
+	url = git@github.com:seelystreet/seelystreet.github.io.git
+	branch = master
