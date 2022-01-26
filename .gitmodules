@@ -6,3 +6,7 @@
 	path = public
 	url = git@github.com:seelystreet/seelystreet.github.io.git
 	branch = main
+[submodule "seelystreet.github.io/"]
+	branch = main
+[submodule "public/"]
+	branch = main
