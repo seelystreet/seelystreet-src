@@ -33,5 +33,5 @@ For Reservations or to check availability :-
 For Online Reservations click [Here](https://m.bbcanada.com/10812.html)  
 <i data-feather="mail"></i> **Email** - <garth@seelystreet.com>
 
-Please also check out our other Websites - [Fundy Sports Toursim](http://fundysportstourism.com)
+Please also check out our other Website - [Fundy Sports Toursim](http://fundysportstourism.com)
 
