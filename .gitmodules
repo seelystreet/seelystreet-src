@@ -1,4 +1,8 @@
 [submodule "seelystreet.github.io"]
 	path = seelystreet.github.io
 	url = git@github.com:seelystreet/seelystreet.github.io.git
-	branch = master
+	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:seelystreet/seelystreet.github.io.git
+	branch = main
