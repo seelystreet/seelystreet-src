@@ -11,7 +11,7 @@ We pride ourselves on having a clean, safe and welcoming environment for our gue
 1. Please remove your shoes when entering into our B&B - we do provide booties for you to use.
 1. Client Responsibilily We rely on you, our clients, to share the responsibility for the health and wellbeing of our other guests and my wife & I. If you are sick or are showing symptoms of illness please cancel your stay and rebook when you are healthy.
 
-Give me a call if this is confusing and I can go through it with you. (506) 721 1553
+Give me a call if this is confusing and I can go through it with you. &#128222; (506) 721 1553
 
 
 
@@ -25,9 +25,9 @@ Give me a call if this is confusing and I can go through it with you. (506) 721 
 **Reservations** * All reservations must be guaranteed with a Credit Card, in the guests name. Visa, Mastercard only please. * Upon arrival Credit Card must be presented. * Cheques are only accepted 10 days before arrival. * A 50% deposit is required for Multiple Room Reservations.
 
 **For reservations**  
-<i data-feather="phone"></i> Phone - (506) 721 1553
+ &#128222; - (506) 721 1553
 
-<i data-feather="mail"></i> Email - <garth@seelystreet.com> 
+ &#128231; - <garth@seelystreet.com> 
 
 **Cancellation Policy**
 * 48 hours notice is required to cancel a reservation without charge.
@@ -58,6 +58,6 @@ All older children or adults are charged CAD 10 per person per night when using 
 
 Thank you for adhering to our policies. We have a commitment to our guests to expect very high standards in a well kept and safe environment. We look forward to hosting you and making you feel at home in a relaxed atmosphere. Once you have browsed through our pages to make a reservation.
 
-<i data-feather="phone"></i> (506) 721 1553
+&#128222; (506) 721 1553
 
-<i data-feather="mail"></i> Email - <garth@seelystreet.com> 
+ &#128231; - <garth@seelystreet.com> 

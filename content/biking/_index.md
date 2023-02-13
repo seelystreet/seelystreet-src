@@ -29,9 +29,9 @@ As athletes ourselves we appreciate how important it is to stay somewhere who un
 
 Please contact us today :-
 
-E-mail Garth at <garth39@fastmail.fm>
+&#128231; Garth at <garth39@fastmail.fm>
 
-Phone - 506 721 1553
+&#128222; - 506 721 1553
 
 Garth Millar Fundy Sports & Tourism  
 [fundysportstourism.com](https://fundysportstourism.com)

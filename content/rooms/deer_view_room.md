@@ -24,9 +24,9 @@ Many times we have watched the deer in our rear gardens from this room as they w
 Room Rate: $110.00 plus tax at 15% plus 3.5% Municipal Accommodation Levy.
 
 For Reservations or to Check Availability  
-<i data-feather="phone"></i> Phone - (506) 721 1553
+&#128222; - (506) 721 1553
 
-<i data-feather="mail"></i> Email - <garth@seelystreet.com>
+&#128231; - <garth@seelystreet.com>
 
 All Rooms are Non-Smoking.  
 Free Off Road Parking
