@@ -49,5 +49,5 @@ defaultMarkdownHandler = "goldmark"
     publish = "public"
 
     [build.environment]
-      HUGO_VERSION = "0.91.2"
+      HUGO_VERSION = "0.110.0"
 
